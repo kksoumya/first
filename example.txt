@@ -1,0 +1,2 @@
+This is supercool
+To have the power of Git as a webservice
